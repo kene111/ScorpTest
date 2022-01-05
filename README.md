@@ -10,7 +10,7 @@
 Here, we were asked to get the post details using the post_ids provided, assuming the posts exists. Once obtained we are to check if the user requesting for the posts liked any of them, if true return a struct_post instance of the post with the liked attribute set to true.
 
 ##### Logic used:
-1) Query the Post table using the post_id, if post does not exist return None.
+1) Query the Post table using the post_ids, if post does not exist return None.
 2) For the existing posts, query the Like table to see if there is any instance where the user_id and the post_id exists. If True, it confirms that the requesting user liked a post.
 3) For every post create an instance of the struct_post and populate the attributes of the struct_post with their respective values. If the requesting user liked any of the post set the liked attribute to True, else False.
 4) Return the list of struct_post.
