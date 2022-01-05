@@ -37,7 +37,7 @@ than the new post id, ignore, else replace the post with the new one.
 2) SQLAlchemy
 
 
-Question: [Click Here.](https://docs.google.com/document/d/1AA7IxfXNK6xQh5uUBn3qGRC8kUI5FTalPa47hxN370Y/edit)
+Question 1 and Question 2 can be found here: [Click Here.](https://docs.google.com/document/d/1AA7IxfXNK6xQh5uUBn3qGRC8kUI5FTalPa47hxN370Y/edit)
 
 
 
