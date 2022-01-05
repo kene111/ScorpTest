@@ -15,7 +15,7 @@ Here, we were asked to get the post details using the post_ids provided, assumin
 3) For every post create an instance of the struct_post and populate the attributes of the struct_post with their respective values. If the requesting user liked any of the post set the liked attribute to True, else False.
 4) Return the list of struct_post.
 
-##### Solution is found on cell 26. [Here.](https://github.com/kene111/ScorpTest/blob/main/Scorp%20Backend%20Q1.ipynb)
+##### Solution logic is found in cell 26. [Here.](https://github.com/kene111/ScorpTest/blob/main/Scorp%20Backend%20Q1.ipynb)
 
 
 ##### Logic for Question 2:
@@ -32,7 +32,7 @@ than the new post id, ignore, else replace the post with the new one.
 5) Loop through the list finally to remove duplicate ids using a set as a monitor.
 6) Return the final list of post
 
-##### Solution is found on cell 15. [Here.](https://github.com/kene111/ScorpTest/blob/main/Scorp%20Backend%20Q2.ipynb)
+##### Solution logic is found in cell 15. [Here.](https://github.com/kene111/ScorpTest/blob/main/Scorp%20Backend%20Q2.ipynb)
 
 
 #### Tech Stack used to implement solution:
