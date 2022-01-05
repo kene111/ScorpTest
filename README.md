@@ -19,7 +19,7 @@ Here, we were asked to get the post details using the post_ids provided, assumin
 ##### Logic for Question 2:
 
 In this section we are provided with a list of post lists, and asked to return the a list of post. We are to use the created_at value to sort the list in descending order, if there are duplicates of the created_at value, we are to use the id of the post to sort. If there are duplicated Ids, we are to drop one (assumption made is that post with the 
-same ids have the same content).
+same ids have the same content). Worst case run time should be O(m*n).
 
 ##### Logic used:
 1) Map the created_at value to the post instance using a dictionary
