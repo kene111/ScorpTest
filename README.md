@@ -32,7 +32,7 @@ than the new post id, ignore, else replace the post with the new one.
 5) Loop through the list finally to remove duplicate ids using a set as a monitor.
 6) Return the final list of post
 
-##### Solution is found on cell 15.[Here.](https://github.com/kene111/ScorpTest/blob/main/Scorp%20Backend%20Q2.ipynb)
+##### Solution is found on cell 15. [Here.](https://github.com/kene111/ScorpTest/blob/main/Scorp%20Backend%20Q2.ipynb)
 
 
 #### Tech Stack used to implement solution:
