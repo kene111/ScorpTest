@@ -27,10 +27,14 @@ are duplicate of the created_at value, we are to use the id of the post. If ther
 2) If the created_at value already exists in the dictionary(hence, duplicated) switch to the ids and compare. If the id of the post already in the dictionary is lower 
 than the new post id, ignore, else replace the post with the new one.
 3) Once completed, convert the dictionary keys to a list and sort.
-4) Create an output list and populate with the sorted keys which is mapped to their respective posts.
+4) Create an output list and populate with the posts using the sorted keys.
 5) Loop through the list finally to remove duplicate ids using a set as a monitor.
 6) Return the final list of post
 
+
+#### Tech Stack used to implement solution:
+1) Python Programming Language
+2) SQLAlchemy
 
 
 
